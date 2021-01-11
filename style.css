@@ -1,0 +1,60 @@
+body{
+    background-color: royalblue;
+    font-family: 'Satisfy', cursive;
+    font-size: x-large;
+}
+#animation{
+    height:100px;
+    width:100px;
+}
+.main_div{
+    background-color: salmon;
+    padding: 10px;
+    margin-top: 10px;
+    border : 3px solid white;
+}
+.main_div label {
+    background-color: white;
+    width :310px;
+    padding:10px;
+    margin-bottom:opx;
+    box-shadow: 5px 5px 18px aliceblue;
+
+}
+#camera {
+    border : 2px solid white;
+    width:310;
+    height:300;
+    box-shadow: 5px 5px 18px aliceblue;
+}
+.main_div button {
+Width:310px;
+font-size: 16px;
+box-shadow: 5px 5px 18px aliceblue;
+border : 1px solid white;
+}
+
+
+.footer_div {
+    margin-bottom: 50px;
+
+}
+.footer_div h4 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px aliceblue;
+}
+.footer_div img {
+    width:70px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(234, 163, 255);
+    bottom:0;
+    width:100%;
+    background-color: aliceblue;
+    line-height:2;
+    text-align:center;
+    font-size:20px;
+}
